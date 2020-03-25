@@ -1,1 +1,1 @@
-VC
+Visió per Computadors - FIB - UPC
